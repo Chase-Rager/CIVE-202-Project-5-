@@ -39,7 +39,7 @@ Progress was documented on the following sheets:
 ---
 ## Project Documentation
 Links:
-- [Scope of Work](SOW Project 5.docx)
+- [Scope of Work](CIVE202_Spring2026_SOW.docx)
 - [ACD](CIVE202_Spring2026_P4-G03_Project4_ACD.docx)
-- [Written Report](CIVE202_Spring2026_Project4_Group3_Document.docx)
+- [Written Report](CIVE202_Spring2026_Report.docx)
 
