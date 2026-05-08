@@ -2,7 +2,7 @@
 This repository contains a Python-based workflow for processing and analyzing asphalt mix design and performance testing data. It automates gradation analysis, volumetric properties, IDEAL-CT cracking resistance evaluation, and HWTT rutting performance using structured Excel inputs. The goal is to streamline civil engineering lab data processing, reduce manual calculations, and improve consistency in mix design evaluation.
 ## Repository Structure
 
-- [Project 5 Code](Project5_Geost_02_19_Spring2025(1).ipynb): This is the code that contains all the data analysis and visualization code.
+- [Project 5 Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final_Code_1.ipynb): This is the code that contains all the data analysis and visualization code.
 - [Auto BMD](NRI_Table_Kansas.csv): Mix design and performance data.  
 
   
@@ -14,7 +14,7 @@ This system automates the analysis of asphalt mix design and performance testing
 
 
 ### 2. Execution Sequence
-- Data Loading: Ensure all [NRI Kansas Table](NRI_Table_Kansas.csv) is in the same directory as the [Project 5 Code](Project5_Geost_02_19_Spring2025 (1).ipynb)
+- Data Loading: Ensure all [AutoBMD](NRI_Table_Kansas.csv) is in the same directory as the [Project 5 Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final_Code_1.ipynb)
 - Visualization Generation:  Run the cells to generate the bar chart, histogram, and box plot based on the selected datasets. 
 
 
