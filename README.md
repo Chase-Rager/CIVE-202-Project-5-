@@ -3,7 +3,7 @@ This repository contains a Python-based workflow for processing and analyzing as
 ## Repository Structure
 
 - [Project 5 Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final_Code_1.ipynb): This is the code that contains all the data analysis and visualization code.
-- [Auto BMD](NRI_Table_Kansas.csv): Mix design and performance data.  
+- [Auto BMD](AutoBMD.csv): Mix design and performance data.  
 
   
 ---
@@ -14,7 +14,7 @@ This system automates the analysis of asphalt mix design and performance testing
 
 
 ### 2. Execution Sequence
-- Data Loading: Ensure all [AutoBMD](NRI_Table_Kansas.csv) is in the same directory as the [Project 5 Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final_Code_1.ipynb)
+- Data Loading: Ensure all [AutoBMD](AutoBMD.csv) is in the same directory as the [Project 5 Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final_Code_1.ipynb)
 - Visualization Generation:  Run the cells to generate the bar chart, histogram, and box plot based on the selected datasets. 
 
 
@@ -39,7 +39,7 @@ Progress was documented on the following sheets:
 ---
 ## Project Documentation
 Links:
-- [Scope of Work](CIVE202-Spring2026_Project4_Group3_SOW.docx)
+- [Scope of Work](SOW Project 5.docx)
 - [ACD](CIVE202_Spring2026_P4-G03_Project4_ACD.docx)
 - [Written Report](CIVE202_Spring2026_Project4_Group3_Document.docx)
 
