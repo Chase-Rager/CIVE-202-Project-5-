@@ -31,9 +31,9 @@ All analysis is conducted within a Jupyter Notebook environment, with results ex
 
 Progress was documented on the following sheets:
 
--[Gantt Chart](CIVE202_Spring2026_Project4_Group3_GnattChart.xlsx):Log of hours spent by each engineering intern
+-[Gantt Chart](CIVE202_Spring2026_Gannt.xlsx):Log of hours spent by each engineering intern
 
--[Engineering Timesheet](CIVE202_Spring2026_Project4_Group3_TimeSheet.xlsx):Timeline of project activities
+-[Engineering Timesheet](CIVE202_Spring2026_Project5_Geost-19-02_TimeSheet.xlsx):Timeline of project activities
 
 
 ---
